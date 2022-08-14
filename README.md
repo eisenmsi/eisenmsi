@@ -1,3 +1,5 @@
+Informations about myself and my interests can be found here:
+
 LinkedIn: www.linkedin.com/in/simoneisenmann
 
 <!---
