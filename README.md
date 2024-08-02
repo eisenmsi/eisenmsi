@@ -1,6 +1,4 @@
-Informations about myself and my interests can be found here:
-
-LinkedIn: www.linkedin.com/in/simoneisenmann
+Informations about myself and my interests can be found here: www.linkedin.com/in/simoneisenmann
 
 <!---
 eisenmsi/eisenmsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
